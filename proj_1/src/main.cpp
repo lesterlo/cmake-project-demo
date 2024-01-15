@@ -6,7 +6,7 @@
 int main()
 {
 
-    cout << welcome_str << endl;
+    cout << welcome_str << endl; 
 
     return 0;
 }
